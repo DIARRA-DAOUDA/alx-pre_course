@@ -1,1 +1,1 @@
-readme alx pre-course
+~/*
